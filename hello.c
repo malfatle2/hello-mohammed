@@ -13,21 +13,12 @@
  */
 
 #include<stdlib.h>
-
 #include<stdio.h>
-
-
 
 int main(int argc, char **argv) {
 
+printf("hello, my name is mohammed alfatle/n");
+printf("my major is software egineer/n");
 
-
-
-
-  printf("hello, my name is mohammed alfatle/n");
-
-
-
-  return 0;
-
+return 0;
 }
